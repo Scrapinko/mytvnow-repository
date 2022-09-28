@@ -39,7 +39,7 @@ mytvnow repository
     </dir>
   </extension>
   <extension point="xbmc.addon.metadata">
-    <summary>Hacky's repository</summary>
+    <summary>Scrapinko's repositary</summary>
     <description>
       Contains Stream Cinema 2.0 dependencies
       - author of this repository is not responsible for the Stream Cinema 2 addon
